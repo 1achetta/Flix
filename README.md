@@ -12,8 +12,7 @@
 
 ### App Walkthrough GIF
 
-<img src="https://www.img2go.com/
-https://www37.img2go.com/v2/dl/web7/download-file/a704d279-8c30-48da-af50-adce54dc9062/Screen%20Recording%202022-09-20%20at%2022.36.02.gif" width=250><br>
+<img src="https://imgur.com/gallery/epKxdtq" width=250><br>
 
 ### Notes
 n/a
