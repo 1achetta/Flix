@@ -12,7 +12,7 @@
 
 ### App Walkthrough GIF
 
-<img src="https://imgur.com/a/epKxdtq" width=250><br>
+<img src="https://github.com/1achetta/Flix/blob/main/Screen%20Recording%202022-09-20%20at%2022.36.02.gif" width=250><br>
 
 ### Notes
 n/a
