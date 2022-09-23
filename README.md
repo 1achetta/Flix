@@ -12,7 +12,7 @@
 
 ### App Walkthrough GIF
 
-<img src="https://github.com/1achetta/Flix/blob/main/Flix%20Part2.gif" width=250><br>
+<img src="https://github.com/1achetta/Flix/blob/main/Flix%20Part2%20-%20Imgur.mp4" width=250><br>
 
 ### Notes
 n/a
